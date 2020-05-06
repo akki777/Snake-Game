@@ -15,4 +15,3 @@ To play : <a href="https://speedy-snake.firebaseapp.com" target="_blank">speedy-
 <img src="https://github.com/akki777/Snake-Game/blob/master/snake/a.png" alt="Snake Game Playing" height=300 width=420/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/akki777/Snake-Game/blob/master/snake/b.png" alt="Snake Game Game Over" height=300 width=420/>
-
